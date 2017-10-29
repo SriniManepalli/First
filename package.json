@@ -1,0 +1,16 @@
+{
+  "name": "expressjs",
+  "version": "4.16.2",
+  "description": "Express JS",
+  "main": "C:\\MyDevProjects\\NodeExpJS",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
